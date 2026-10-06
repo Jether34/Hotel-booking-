@@ -1,0 +1,6 @@
+.env
+storage/mail/*
+!storage/mail/.htaccess
+uploads/rooms/*
+!uploads/rooms/.htaccess
+*.log

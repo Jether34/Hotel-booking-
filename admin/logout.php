@@ -1,0 +1,1 @@
+<?php require_once __DIR__.'/../config.php'; if(session_status()===PHP_SESSION_NONE)session_start(); unset($_SESSION['lorence_admin'],$_SESSION['admin_user']); session_regenerate_id(true); header('Location: login.php'); exit;

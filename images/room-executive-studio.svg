@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Executive Studio">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b2436"/><stop offset="1" stop-color="#14111c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <g fill="#ffffff" opacity=".06">
+    <rect x="90" y="470" width="150" height="330" rx="8"/>
+    <rect x="270" y="380" width="170" height="420" rx="8"/>
+    <rect x="470" y="500" width="140" height="300" rx="8"/>
+    <rect x="640" y="300" width="190" height="500" rx="8"/>
+    <rect x="860" y="440" width="160" height="360" rx="8"/>
+  </g>
+  <g fill="#d6b36a" opacity=".55">
+    <rect x="700" y="90" width="290" height="12" rx="6"/>
+    <rect x="700" y="130" width="190" height="12" rx="6"/>
+  </g>
+  <text x="90" y="140" fill="#ffffff" opacity=".9" font-family="Georgia, serif" font-size="54" letter-spacing="6">Executive Studio</text>
+  <text x="90" y="190" fill="#ffffff" opacity=".55" font-family="Arial, sans-serif" font-size="20" letter-spacing="8">LORENCE GRAND HOTEL</text>
+</svg>
